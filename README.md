@@ -1,4 +1,4 @@
 # hideShow-js
 this is javascript code for show and hide password functionality
 this script is very useful and can be added to any app where password field id used.
-it is very common code to understand the logic behind it
+It is very common code to understand the logic behind it
